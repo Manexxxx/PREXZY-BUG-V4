@@ -1,7 +1,7 @@
 const fs = require('fs')
 //~~~~~~~~~SETTING BOT~~~~~~~~~~//
-global.owner = "263785335562"
-global.name = "Prexzy"
+global.owner = "263781513420"
+global.name = "Manexx"
 global.ch = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s'
 global.status = true
 
